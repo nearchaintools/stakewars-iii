@@ -7,7 +7,7 @@
 ## Setup
 - folow https://github.com/near/stakewars-iii/tree/main/challenges
 
-## HardFors
+## Hard Fork
 
 ```
 cp ~/.near/node_key.json ~
